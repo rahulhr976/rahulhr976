@@ -22,7 +22,7 @@ Actively seeking *entry-level Software Engineer / Java Developer roles*.
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 ### 💻 Programming Languages
 <p>
@@ -48,13 +48,13 @@ Actively seeking *entry-level Software Engineer / Java Developer roles*.
 
 ## 🏗️ Projects
 
-### 🔹 Real-Time Object Tracking & Management System
+### * Real-Time Object Tracking & Management System
 *Tech Stack:* Python, Flask, SQLite, HTML, CSS  
 - Developed secure authentication and session management  
 - Implemented full CRUD operations on device records  
 - Generated QR codes for real-time tracking  
 
-### 🔹 Dynamic Load Balancing Simulation
+### * Dynamic Load Balancing Simulation
 *Tech Stack:* Python, Flask, JavaScript, Chart.js  
 - Implemented Round-Robin and Least-Connection algorithms  
 - Visualized server load distribution using charts  
@@ -77,7 +77,7 @@ K R Pet Krishna Government Engineering College
 
 ---
 
-## 📫 Contact Information
+##  Contact Information
 - 📧 Email: *rahulravikumar976@gmail.com*
 - 🔗 LinkedIn: **linkedin.com/in/rahul-h-r-1a442427b**
 - 💻 GitHub: **github.com/rahulhr976**
