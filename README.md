@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
+
     <meta charset="UTF-8">
     <title>Rahul H R | Portfolio</title>
 
@@ -215,5 +214,3 @@
     <p>© 2026 Rahul H R | Portfolio</p>
 </footer>
 
-</body>
-</html>
